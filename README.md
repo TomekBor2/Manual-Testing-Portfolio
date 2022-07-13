@@ -37,7 +37,7 @@ Currently I am learning manual application testing. My goal is to develop knowle
 * Zawód tester - R.Smilgin
 * SCRUM J.J. Sutherland
 
-Recommended blogs & podcasts
+## Recommended blogs & podcasts
 
 * Testowanie Oprogramowania Podcast
 * Programowanie To Wyzwanie Podcast
@@ -51,10 +51,10 @@ Recommended blogs & podcasts
 * "Testowanie REST API dla początkujących" - Tester Programuje - Bartosz Kita
 * "Zacznij pisać pierwsze testy Selenium" - testelka.pl
 
-## My test scenarios & test execution for some of test cases for demo.opencart.com(https://demo.opencart.com/)
+## My test scenarios & test execution for some of test cases for demo.opencart.com
 
 * [Test scenarios & test execution for Opencart](https://docs.google.com/spreadsheets/d/17PraG4L6zuDlGVTuB1Bjjl5sPH9gNQit/edit?usp=sharing&ouid=103077607472512868745&rtpof=true&sd=true)
 
-## My bug reports for demo.opencart.com(https://demo.opencart.com/)
+## My bug reports for demo.opencart.com
 
 * [Bug report for Opencart](https://docs.google.com/spreadsheets/d/16RKPAw_J7lxLCss0GDnpdHCgWr9xL_Wl/edit?usp=sharing&ouid=103077607472512868745&rtpof=true&sd=true)
