@@ -26,16 +26,18 @@ Currently I am learning manual application testing. My goal is to develop knowle
 ## Courses
 
 * "Manual software testing", "Jira Tool" and "Agile Model" - SDET- QA Automation Techie
+* "Git for beginners" - SDET- QA Automation Techie
 * "SQL Tutorial - Full Database Course for Beginners" - freeCodeCamp.org
 * uTest Academy
 * "8 metod wytwarzania przypadków testowych" - Marek Koszałka
 * "Pakiet 5 szkoleń" - Praktyczny Python - Krzysztof Mędrela
-* "Postman od podstaw - testowanie REST API" - Testowanie Oprogramowania - pending
+* "Postman od podstaw - testowanie REST API" - Testowanie Oprogramowania - in progress
 
 ## Books
 
-* Zawód tester - R.Smilgin
-* SCRUM J.J. Sutherland
+* "Zawód tester" - R.Smilgin
+* "SCRUM" - J.J. Sutherland
+* "Testowanie i jakość oprogramowania" - Adam Roman - in progress
 
 ## Recommended blogs & podcasts
 
