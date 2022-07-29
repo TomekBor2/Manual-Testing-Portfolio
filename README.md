@@ -32,7 +32,8 @@ Currently I am learning manual application testing. My goal is to develop knowle
 * "8 metod wytwarzania przypadków testowych" - Marek Koszałka
 * "Pakiet 5 szkoleń" - Praktyczny Python - Krzysztof Mędrela
 * "Postman od podstaw - testowanie REST API" - Testowanie Oprogramowania
-* "Postman Beginners Crash Course" - SDET- QA Automation Techie - in progress
+* "Postman Beginners Crash Course" - SDET- QA Automation Techie
+* "Learn HTML – Full Tutorial for Beginners" - freeCodeCamp.org
 
 ## Books
 
