@@ -10,7 +10,7 @@ plants or reports on thermal imaging studies and building air tightness
 tests. I have also prepared some marketing articles about prevention of
 heat loss in buildings.
 Recently I decided to change my profession and move to the IT industry.
-Currently I am learning manual application testing. My goal is to develop knowledge in practice and to acquire new skills.
+Currently learn manual application testing. My goal is to develop knowledge in practice and to acquire new skills.
 
 ## Tech skills & tools
 
