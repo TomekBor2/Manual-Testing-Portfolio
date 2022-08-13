@@ -62,3 +62,7 @@ Currently learn manual application testing. My goal is to develop knowledge in p
 ## My bug reports for demo.opencart.com
 
 * [Bug report for Opencart](https://docs.google.com/spreadsheets/d/16RKPAw_J7lxLCss0GDnpdHCgWr9xL_Wl/edit?usp=sharing&ouid=103077607472512868745&rtpof=true&sd=true)
+
+## Postman collection for Trello based on the API testing course
+
+* [Postman collection for Trello](https://drive.google.com/file/d/19NlGMebP12RFfJHQIfCTcEUaOVCpIRkJ/view?usp=sharing)
