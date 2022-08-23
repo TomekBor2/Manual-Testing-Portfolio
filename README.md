@@ -33,7 +33,9 @@ Currently learn manual application testing. My goal is to develop knowledge in p
 * "Pakiet 5 szkoleń" - Praktyczny Python - Krzysztof Mędrela
 * "Postman od podstaw - testowanie REST API" - Testowanie Oprogramowania
 * "Postman Beginners Crash Course" - SDET- QA Automation Techie
+* Chrome DevTools - Crash Course - freeCodeCamp.org
 * "Learn HTML – Full Tutorial for Beginners" - freeCodeCamp.org
+* CSS Full Course for Beginners | Complete All-in-One Tutorial - freeCodeCamp.org - in progress
 
 ## Books
 
