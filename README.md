@@ -16,7 +16,7 @@ My goal is to develop knowledge in practice and gain skills on tests automation.
 
 ## Tech skills & tools
 
-* Jira
+* Jira/Miro/Figma
 * Software testing in range of ISTQB FL
 * Mobile apps and IoT devices testing
 * Creating test scenarios & test cases
