@@ -9,19 +9,25 @@ tendering. I am familiar with energy audits, projects of photovoltaic power
 plants or reports on thermal imaging studies and building air tightness
 tests. I have also prepared some marketing articles about prevention of
 heat loss in buildings.
-Recently I decided to change my profession and move to the IT industry.
-Currently learn manual application testing. My goal is to develop knowledge in practice and to acquire new skills.
+Finally I've decided to change my profession and move to the IT industry.
+I recently acquired my first experience in mobile apps testing involving UI, logic, API and Bluetooth connection fields.
+I also attend postgraduate studies of web apps development.
+My goal is to develop knowledge in practice and gain skills on tests automation.
 
 ## Tech skills & tools
 
 * Jira
-* Github
-* Python - basics
-* SQL in range of multiple joins
-* SCRUM
 * Software testing in range of ISTQB FL
+* Mobile apps and IoT devices testing
 * Creating test scenarios & test cases
 * Reporting bugs
+* Testing API and interpreting logs
+* SCRUM
+* Github
+* JavaScript
+* SQL in range of multiple joins
+
+
 
 ## Courses
 
@@ -36,12 +42,16 @@ Currently learn manual application testing. My goal is to develop knowledge in p
 * Chrome DevTools - Crash Course - freeCodeCamp.org
 * "Learn HTML – Full Tutorial for Beginners" - freeCodeCamp.org
 * CSS Full Course for Beginners | Complete All-in-One Tutorial - freeCodeCamp.org - in progress
+* JavaScript Programming - Full Course - freeCodeCamp.org
+* Learn JavaScript by Building 7 Games - Full Course - freeCodeCamp.org
+
 
 ## Books
 
 * "Zawód tester" - R.Smilgin
 * "SCRUM" - J.J. Sutherland
 * "Testowanie i jakość oprogramowania" - Adam Roman - in progress
+* "Testowanie oprogramowania w praktyce" - Adam Roman, Karolina Zmitrowicz - in progress
 
 ## Recommended blogs & podcasts
 
