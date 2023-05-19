@@ -14,6 +14,11 @@ I recently acquired my first experience in mobile apps testing involving UI, log
 I also attend postgraduate studies of web apps development.
 My goal is to develop knowledge in practice and gain skills on tests automation.
 
+## Experience
+Since October 2022 I work as a manual tester of mobile applications. During this time I was involved in one internal and two commercial projects.
+My task was to complex verification of applications working with IoT devices for medical purposes. Testing included UI, logic as well as backend issues.
+The work was performed in agile methodology. Daily communication with the customer was in English.
+
 ## Tech skills & tools
 
 * Jira/Miro/Figma
