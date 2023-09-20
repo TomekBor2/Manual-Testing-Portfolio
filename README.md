@@ -36,6 +36,7 @@ The work was performed in agile methodology. Daily communication with the custom
 
 ## Courses
 
+* Praktyczne wprowadzenie do testów automatycznych z Playwright - jaktestowac.pl
 * "Manual software testing", "Jira Tool" and "Agile Model" - SDET- QA Automation Techie
 * "Git for beginners" - SDET- QA Automation Techie
 * "SQL Tutorial - Full Database Course for Beginners" - freeCodeCamp.org
