@@ -47,7 +47,7 @@ The work was performed in agile methodology. Daily communication with the custom
 * "Postman Beginners Crash Course" - SDET- QA Automation Techie
 * Chrome DevTools - Crash Course - freeCodeCamp.org
 * "Learn HTML – Full Tutorial for Beginners" - freeCodeCamp.org
-* CSS Full Course for Beginners | Complete All-in-One Tutorial - freeCodeCamp.org - in progress
+* CSS Full Course for Beginners | Complete All-in-One Tutorial - freeCodeCamp.org
 * JavaScript Programming - Full Course - freeCodeCamp.org
 * Learn JavaScript by Building 7 Games - Full Course - freeCodeCamp.org
 
